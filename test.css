@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+table{
+    margin-top:20px;
+    border-collapse: collapse;
+    text-align: left;
+    width:100%;
+}
+th,tr,td{
+    border:1px solid black;
+    font-size: 14px;
+    word-wrap: break-word;
+}
